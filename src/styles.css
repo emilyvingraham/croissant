@@ -1,0 +1,40 @@
+body {
+    background-color: #f9efdb;
+    text-align: center;
+}
+.container {
+    border: 1px solid #3652ad;
+    padding: 10px;
+    border-radius: 10px;
+    width: 400px;
+    display: block;
+    margin: 10px auto;
+}
+.links-class {
+    color: #3652ad;
+    font-weight: 700;
+    font-size: 16px;
+    display: inline;
+    margin: 0 auto;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+}
+
+.mailto-class {
+    color: #3652ad;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.links-class:hover {
+    text-decoration: underline;
+}
+
+.image-class {
+    width: 500px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+    border: 5px solid #3652ad;
+}
